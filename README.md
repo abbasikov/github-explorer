@@ -31,7 +31,7 @@ Best of luck
 
 ### How to run app & test
 
-* Please execute [yarn install] then [yarn start]
+* Please execute 'yarn install' then 'yarn start'
 
 
 ### Future Improvements
