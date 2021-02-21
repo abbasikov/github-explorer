@@ -1,0 +1,26 @@
+{
+  "data" : {
+    "light" : {
+      "id": "T_001",
+      "name": "Light",
+      "font": "Tinos",
+      "topic": {
+        "backgroundColor": "#cccccc"
+      },
+      "searchBar": {
+        "borderColor": "#829294"
+      }
+    },
+    "seaWave" : {
+      "id": "T_007",
+      "name": "Sea Wave",
+      "font": "Ubuntu",
+      "topic": {
+        "backgroundColor": "#bbb7f7"
+      },
+      "searchBar": {
+        "borderColor": "red"
+      }
+    }
+  }
+}

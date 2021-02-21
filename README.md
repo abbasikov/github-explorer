@@ -31,7 +31,7 @@ Best of luck
 
 ### How to run app & test
 
-* Leave instruction on how to run and test your app here
+* Please execute [yarn install] then [yarn start]
 
 
 ### Future Improvements
