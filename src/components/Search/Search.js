@@ -19,7 +19,7 @@ const StyledSearch = styled.div`
 const Search = (props)=>{
     return (
         <StyledSearch>
-            <input className="searchTerm" type="text" onKeyDown={(e)=>props.onEnter(e)} placeholder="Search for a topic"/>
+            <input className="searchTerm" type="text" onKeyDown={(e)=>props.onEnter(e)} placeholder="Search for a topic (e.g react, angular, ember etc)"/>
         </StyledSearch>
     )
 }
